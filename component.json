@@ -1,0 +1,14 @@
+{
+  "name": "reading-time",
+  "repo": "yuehu/reading-time",
+  "description": "Count reading time of an entry.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
